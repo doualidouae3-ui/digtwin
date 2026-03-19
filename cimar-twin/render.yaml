@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: cimar-digital-twin
-    env: static
-    staticPublishPath: .
-    buildCommand: ""
-    pullRequestPreviewsEnabled: true
